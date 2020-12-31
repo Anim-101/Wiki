@@ -1,2 +1,2 @@
 # Wiki
-## My Coding Wiki, Notes, Snippets and Commands - Saving up.
+## My Coding Wiki, Notes, Snippets & Commands - Saving up.
